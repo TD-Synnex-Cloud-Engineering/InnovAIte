@@ -18,7 +18,7 @@ Thursday technical workshops:
 | 2 | Architecting Success: Building Azure Environments with WAF & CAF |
 | 2 | From Legacy to Leading Edge: Modernizing Data with Microsoft Fabric |
 
-**Naming example:** `2027-InnovAIte-Azure-Session-Title-Presentation.pdf`
+**Naming example:** `InnovAIte 2027-Azure-Session-Title-Presentation.pdf`
 
 > **Public repository.** Add only material approved for public release. Do not add confidential, NDA, partner-restricted, or customer-specific content, or personal contact details.
 
