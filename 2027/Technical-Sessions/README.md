@@ -2,7 +2,7 @@
 
 Content from the InnovAIte 2027 technical breakouts, hands-on labs, and the Thursday, February 4 optional Technical Workshop Track.
 
-**What belongs here**
+**What you may find here**
 
 - Technical session presentations (PDF and source files)
 - Lab guides and step-by-step exercises
@@ -17,9 +17,5 @@ Thursday technical workshops:
 | 1 | Building a Resilient Cloud: Master Azure Security |
 | 2 | Architecting Success: Building Azure Environments with WAF & CAF |
 | 2 | From Legacy to Leading Edge: Modernizing Data with Microsoft Fabric |
-
-**Naming example:** `InnovAIte 2027-Azure-Session-Title-Presentation.pdf`
-
-> **Public repository.** Add only material approved for public release. Do not add confidential, NDA, partner-restricted, or customer-specific content, or personal contact details.
 
 [Back to InnovAIte 2027](../README.md)
