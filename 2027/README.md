@@ -37,10 +37,4 @@ The 2027 Microsoft InnovAIte Symposium brings Microsoft and TD SYNNEX together w
 | [Event Materials](./Event-Materials/) | Event overview, attendee guides, maps, exhibitor material, and handouts |
 | [Media](./Media/) | Approved photos, videos, recordings, podcasts, and social posts |
 
-## Sources
-
-- 2027 Microsoft InnovAIte Symposium event site: https://web.cvent.com/event/25fbf31a-03a7-4bc5-936a-1d7d7eee7c7b/summary
-
-> **Public repository.** Add only material approved for public release. Do not add confidential, NDA, partner-restricted, or customer-specific content, or personal contact details.
-
 [Back to all conferences](../README.md)
